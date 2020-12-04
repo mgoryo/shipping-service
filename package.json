@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/mgoryo/shipping-service/issues"
   },
-  "homepage": "https://github.com/mgoryo/shipping-service#readme"
+  "homepage": "https://github.com/mgoryo/shipping-service#readme",
+  "devDependencies": {
+    "nock": "^13.0.5",
+    "sinon": "^9.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "^4.17.1"
+  }
 }
